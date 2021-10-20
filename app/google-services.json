@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816098794954",
+    "project_id": "food-fetish-1b51e",
+    "storage_bucket": "food-fetish-1b51e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816098794954:android:63ede90760cf3f31f10333",
+        "android_client_info": {
+          "package_name": "my.foodfetish.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816098794954-i6hl7rd48inlni4eji1j90pq7pkki9d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVPA-iwPCvkn7x0VT5FgAW6KlPqyTPmL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816098794954-i6hl7rd48inlni4eji1j90pq7pkki9d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
